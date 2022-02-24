@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 385 385">
+    <style>
+        .path {
+            stroke-dasharray: 2300;
+            stroke-dashoffset: 2300;
+            animation: dash 1.2s linear alternate infinite;
+        }
+
+        @keyframes dash {
+            to {
+                stroke-dashoffset: 0;
+            }
+        }
+    </style>
+    <g id="Layer_2" data-name="Layer 2">
+    
+        <g id="Layer_1-2" data-name="Layer 1">
+            <polygon class="path" fill="transparent" stroke="#FE5E57" stroke-width="4" points="198 191 385 97.55 385 0 187 0 0 94.23 0 193.34 186.72 193.34 0 287.52 0 385 199.88 385 385 290.8 385 191.67 198 191" />
+        </g>
+    </g>
+</svg>
